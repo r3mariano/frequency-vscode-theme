@@ -15,6 +15,11 @@
         "label": "Frequency Grey",
         "uiTheme": "vs",
         "path": "./themes/Frequency Grey-color-theme.json"
+      },
+      {
+        "label": "Frequency Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Frequency Dark-color-theme.json"
       }
     ]
   }
