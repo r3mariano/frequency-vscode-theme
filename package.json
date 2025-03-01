@@ -1,0 +1,21 @@
+{
+  "name": "frequency-colour-theme",
+  "displayName": "Frequency Grey Colour Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Frequency Grey",
+        "uiTheme": "vs",
+        "path": "./themes/Frequency Grey-color-theme.json"
+      }
+    ]
+  }
+}
