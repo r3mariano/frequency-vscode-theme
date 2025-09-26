@@ -3,7 +3,7 @@
   "displayName": "Frequency Grey Colour Theme",
   "description": "",
   "publisher": "ric-mariano",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.97.0"
   },
