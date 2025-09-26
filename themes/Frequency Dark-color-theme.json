@@ -70,8 +70,8 @@
 
 		// tabs
 		"editorGroupHeader.tabsBackground": "#222222",
-		"tab.activeBackground": "#E9C61C",
-		"tab.activeForeground": "#000000",
+		"tab.activeBackground": "#444444",
+		"tab.activeForeground": "#FFFFFF",
 		"tab.inactiveBackground": "#222222",
 		"tab.inactiveForeground": "#ffffff",
 		"tab.border": "#222222",

@@ -73,7 +73,7 @@
 
 		// tabs
 		"editorGroupHeader.tabsBackground": "#999999",
-		"tab.activeBackground": "#E9C61C",
+		"tab.activeBackground": "#BBBBBB",
 		"tab.activeForeground": "#000000",
 		"tab.inactiveBackground": "#999999",
 		"tab.border": "#999999",
